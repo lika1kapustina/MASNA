@@ -1,0 +1,83 @@
+{
+    "personal": {
+        "photos": {
+            "vacation": {
+                "2022": {
+                    "beach.jpg": 23.5,
+                    "mountains.png": 56.1,
+                    "city_trip.jpeg": 12.8
+                },
+                "2023": {
+                    "island_trip.jpg": 45.7,
+                    "ski_resort.png": 33.2
+                }
+            },
+            "family": {
+                "birthday": {
+                    "birthday_2020.jpg": 20.1,
+                    "birthday_2021.png": 25.3,
+                    "birthday_2022.jpeg": 18.4
+                },
+                "weddings": {}
+            },
+            "pets": {}
+        },
+        "documents": {
+            "id_documents": {
+                "passport.docx": 1.2,
+                "driver_license.pdf": 0.9,
+                "id_card.pdf": 0.8
+            },
+            "medical": {
+                "health_records.xlsx": 2.5,
+                "vaccination.pdf": 0.4,
+                "insurance.docx": 1.1
+            },
+            "finance": {}
+        },
+        "music": {
+            "rock": {
+                "queen.mp3": 5.3,
+                "pink_floyd.wav": 12.7
+            },
+            "classical": {
+                "bach.mp3": 4.2,
+                "mozart.wav": 10.8
+            },
+            "playlists": {}
+        }
+    },
+    "bachelor": {
+        "books": {
+            "math_textbook.pdf": 12.5,
+            "physics_notes.docx": 4.3,
+            "history_summary.doc": 3.2
+        },
+        "projects": {
+            "final_project": {
+                "project_report.docx": 6.4,
+                "data_analysis.xlsx": 7.1
+            },
+            "research": {
+                "literature_review.doc": 5.5,
+                "experiment_results.xlsx": 8.3
+            },
+            "old_projects": {}
+        },
+        "notes": {}
+    },
+    "books": {
+        "fiction": {
+            "novels": {
+                "novel1.pdf": 2.1,
+                "novel2.epub": 1.8
+            },
+            "short_stories": {}
+        },
+        "non_fiction": {
+            "biography.docx": 3.4,
+            "self_help.pdf": 2.7,
+            "cookbooks": {}
+        }
+    }
+}
