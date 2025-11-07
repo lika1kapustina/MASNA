@@ -1,0 +1,17 @@
+{
+    "personal": {
+        "photos": {
+            "family_pic.jpg": 12.5,
+            "vacation_beach.png": 24.3
+        },
+        "documents": {
+            "passport_scan.pdf": 1.1
+        }
+    },
+    "bachelor": {
+        "projects": {
+            "final_report.docx": 5.7,
+            "data_table.xlsx": 3.9
+        }
+    }
+}
